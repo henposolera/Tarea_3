@@ -1,4 +1,4 @@
-# Tarea_3
+#
 Tarea 3. Valor 10%
 Doña María no es una persona muy creativa, pero ella sabe que su programa
 debería de tener un nombre. Sin embargo, ella cree que las letras de palabra
